@@ -4,7 +4,7 @@ Automated Python program capable of automating time-based and boolean-based SQL 
 - Download.
 
 ~~~bash
-git clone
+git clone https://github.com/JoseVazquez101/Auto-SQL-injection
 cd Auto-SQL-injection
 pip install requeriments.txt
 ~~~
