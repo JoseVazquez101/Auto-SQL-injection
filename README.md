@@ -1,4 +1,4 @@
-# Auto-SQL-injection
+# Auto-SQL-injection 💉
 Automated Python program capable of automating time-based and boolean-based SQL injection attacks.
 
 - I created a [php configuration file](https://github.com/JoseVazquez101/Auto-SQL-injection/blob/main/users.php) in which I ran my tests
