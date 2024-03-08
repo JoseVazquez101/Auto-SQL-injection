@@ -3,7 +3,7 @@ Automated Python program capable of automating time-based and boolean-based SQL 
 
 - I created a [php configuration file](https://github.com/JoseVazquez101/Auto-SQL-injection/blob/main/users.php) in which I ran my tests
 
-- Download.
+- Download:
 
 ~~~bash
 git clone https://github.com/JoseVazquez101/Auto-SQL-injection
